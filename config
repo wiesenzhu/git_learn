@@ -1,0 +1,11 @@
+# Default github user(asd@adf.com)
+Host github.com
+ HostName github.com
+ User git
+ IdentityFile C:\Users\wiesen
+
+# Default github user(asd@adf.com)
+Host github.com
+ HostName github.com
+ User git
+ IdentityFile C:\Users\wiesen

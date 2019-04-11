@@ -1,0 +1,40 @@
+开源协议
+GPL  
+mysql 
+	binlog
+
+认识git
+3W
+
+建私服存放常用的开发软件，避免手下人下载问题软件导致问题
+	sha256如何验证
+
+git svn 区别
+ SVN CVCSs
+	集中式，只记录变化，push/pull要联网
+ GIT DVCSs
+	分布式，全量记录更新了的文件，未更新的文件会存一个指针文件指向前一个文件
+
+
+GIT 安装
+	git config --global user.name ''
+	git config --global user.email ''
+	ssh-keygen -t rsa -C 'email'
+
+常用的11个命令
+	remote
+	fetch/pull/push
+	checkout
+	log
+	stash
+	merge/rebase
+	tag
+	alias
+
+
+
+git flow
+
+gitlab
+
+githooks全量记录
